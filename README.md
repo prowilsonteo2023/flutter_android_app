@@ -1,4 +1,4 @@
-# ceds_mobile
+# Flutter mobile app
 
 A new Flutter project.
 
